@@ -1,4 +1,4 @@
-1. npm creat vite@latest
+1. npm create vite@latest
 2. npm run install
 3. npm run dev
 4. add vite.config.js
